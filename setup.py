@@ -9,7 +9,7 @@ with open('README.rst') as readme_file:
     readme = readme_file.read()
 
 requirements = [
-    'dooble>=0.3',
+    'dooble>=1.0',
 ]
 
 setup_requirements = [ ]
